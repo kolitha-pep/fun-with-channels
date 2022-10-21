@@ -13,11 +13,3 @@ Fun with Channels
 ```
 docker compose up
 ```
-
-### <b>Tests (not fully implemented)</b>
-
-Run the unit tests using make.
-
-```
-go test -v
-```
